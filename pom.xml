@@ -16,6 +16,7 @@
     <modules>
         <module>modules/core</module>
         <module>examples/counter</module>
+        <module>examples/password-vault</module>
     </modules>
 
     <properties>
