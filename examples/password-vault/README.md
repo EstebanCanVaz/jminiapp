@@ -257,9 +257,8 @@ public class Credential {
 
 ---
 
-**Author:** [Esteban Canto]  
-**Email:** [ecantovaz@gmail.com]  
-**GitHub:** [EstebanCanVaz]  
-**Date:** December 2025  
-**Course:** Software Architecture
+**Author:** Esteban Canto  
+**Email:** ecantovaz@gmail.com  
+**GitHub:** EstebanCanVaz  
+**Date:** December 2025
 

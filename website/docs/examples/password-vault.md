@@ -578,8 +578,8 @@ retrieveAllCredentials();
 
 This example demonstrates how to apply Domain-Driven Design principles in a JMiniApp application, creating a rich domain model with clear business logic, type safety, and ubiquitous language.
 
-**Author:** [Esteban Canto]  
-**GitHub:** [EstebanCanVaz]  
-**Institution:** [Universidad Autónoma de Yucatán]  
+**Author:** Esteban Canto  
+**GitHub:** EstebanCanVaz  
+**Institution:** Universidad Autónoma de Yucatán  
 **Date:** December 2025
 
